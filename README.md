@@ -1,11 +1,12 @@
-# Cloud Computing Labs
 # ☁️ Cloud Computing & DevOps Learning
 
-Welcome to my Cloud Computing and DevOps learning repository.
+Welcome to my Cloud Computing & DevOps learning repository.
 
-This repository documents my learning journey through hands-on labs, assignments, notes, and practical implementations completed during my Cloud Computing and DevOps course.
+This repository showcases my hands-on learning journey in Cloud Computing and DevOps. It contains technical notes, lab exercises, assignments, scripts, documentation, and projects that demonstrate my understanding of cloud technologies, Linux administration, automation, and modern DevOps practices.
 
-## 📚 Topics Covered
+---
+
+## 📚 Technologies & Topics
 
 - Cloud Computing Fundamentals
 - Traditional Infrastructure
@@ -13,38 +14,52 @@ This repository documents my learning journey through hands-on labs, assignments
 - Oracle VirtualBox
 - Amazon Web Services (AWS)
 - Linux Administration
-- Networking Fundamentals
+- Networking
 - Git & GitHub
 - Docker
 - Kubernetes
 - Jenkins
 - Terraform
+- Ansible
 - CI/CD Pipelines
 - Shell Scripting
-- Infrastructure Automation
+- Infrastructure as Code (IaC)
+
+---
 
 ## 📁 Repository Structure
 
-```
-Day-01-Introduction-to-Cloud/
-Day-02-Linux-Foundation/
-Day-03-Git-GitHub/
-Day-04-AWS/
-Day-05-Docker/
-Day-06-Kubernetes/
-...
+```text
+Cloud-Fundamentals/
+Linux/
+Git-GitHub/
+AWS/
+Docker/
+Kubernetes/
+Jenkins/
+Terraform/
+Ansible/
+Shell-Scripting/
+Projects/
 ```
 
-## 🎯 Learning Objectives
+---
 
-- Understand Cloud Computing concepts and architecture.
-- Gain hands-on experience with AWS services.
-- Learn Linux system administration and shell scripting.
-- Master Git and GitHub for version control.
-- Explore containerization using Docker.
-- Learn Kubernetes for container orchestration.
-- Build CI/CD pipelines using Jenkins.
-- Understand Infrastructure as Code (Terraform).
+## 🎯 Objectives
+
+- Build a strong foundation in Cloud Computing and DevOps.
+- Gain practical experience with AWS and Linux.
+- Learn version control using Git and GitHub.
+- Understand containerization and orchestration using Docker and Kubernetes.
+- Implement CI/CD pipelines using Jenkins.
+- Automate infrastructure using Terraform and Ansible.
+- Develop hands-on skills through labs, assignments, and real-world projects.
+
+---
+
+## 🚀 About This Repository
+
+This repository serves as my personal technical portfolio, documenting my continuous learning in Cloud Computing and DevOps. It includes notes, practical labs, scripts, assignments, and projects that reflect my progress and hands-on experience with modern cloud and DevOps technologies.
 
 ## 🚀 About This Repository
 
